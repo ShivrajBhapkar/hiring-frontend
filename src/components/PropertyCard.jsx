@@ -179,7 +179,7 @@ const PropertyCard = ({
                                 onClick={mutateLikeProperty}
                                 className="text-sm font-semibold py-2 px-4 rounded bg-indigo-600 text-white hover:bg-indigo-700"
                             >
-                                {isLiked ? "Unlike" : "Like"}
+                                {isLiked ? "Dislike" : "Like"}
                                 {isLikingOrUnLiking && <Spinner />}
                             </button>
                         </>
