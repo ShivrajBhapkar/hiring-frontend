@@ -5,9 +5,9 @@ Rentify Platform
 Rentify is a user-friendly real estate platform designed to make the rental process easier for both property owners and tenants. As we slowly return to normalcy post-pandemic, finding the perfect rental home in bustling cities has become increasingly challenging. Rentify steps in to help, offering property owners the tools to showcase their listings and attract ideal tenants, while giving tenants a personalized search experience to find homes that truly meet their needs. By simplifying the rental process and adding a human touch, Rentify aims to bring convenience and satisfaction to everyone involved.
 
 ## Project Links
-- **Deployed Project:** [https://ecommerce-platform.example.com](https://ecommerce-platform.example.com)
-- **Frontend Repository:** [https://github.com/username/frontend-repo](https://github.com/username/frontend-repo)
-- **Backend Repository:** [https://github.com/username/backend-repo](https://github.com/username/backend-repo)
+- **Deployed Project:** [https://ren8fy.netlify.app/] (Live Demo)
+- **Frontend Repository:** [https://github.com/ShivrajBhapkar/hiring-frontend] (Front-End Repo)
+- **Backend Repository:** [https://github.com/ShivrajBhapkar/hiring-backend] (BackEnd Repo)
 
 ## Demo Credentials
 - **Seller Account:**
@@ -17,14 +17,14 @@ Rentify is a user-friendly real estate platform designed to make the rental proc
 - **Buyer Account:**
     - Email: shivrajofficial102@gmail.com
     - Password: Shivraj@2021
-
+    
 ## Setup Instructions
 
 ### Cloning and Setting Up the Backend
 1. Clone the backend repository:
     ```bash
-    git clone https://github.com/username/backend-repo.git
-    cd backend
+    git clone git@github.com:ShivrajBhapkar/hiring-backend.git
+    cd hiring-backend
     ```
 
 2. Install dependencies:
@@ -48,7 +48,7 @@ Rentify is a user-friendly real estate platform designed to make the rental proc
 ### Cloning and Setting Up the Frontend
 1. Clone the frontend repository:
     ```bash
-    git clone https://github.com/username/frontend-repo.git
+    git clone git@github.com:ShivrajBhapkar/hiring-frontend.git
     cd hire-challenge
     ```
 
@@ -61,6 +61,7 @@ Rentify is a user-friendly real estate platform designed to make the rental proc
     ```bash
     npm run dev
     ```
+
 
 ## Technologies Used
 - **Frontend:**
