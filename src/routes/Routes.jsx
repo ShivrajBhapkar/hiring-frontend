@@ -1,4 +1,4 @@
-import { createBrowserRouter } from "react-router-dom";
+import { createHashRouter } from "react-router-dom";
 import Property from "../pages/Property/Property";
 import Login from "../pages/Login/Login";
 import ProtectedRoutesWrapper from "../components/ProtectedRoutesWrapper";
@@ -8,7 +8,7 @@ import EditProperty from "../components/EditProperty";
 import SellerProperty from "../pages/Property/SellerProperty";
 import InterestedProperty from "../pages/Property/InterestedProperty";
 
-const router = createBrowserRouter([
+const router = createHashRouter([
     {
         path: "/login",
         element: <Login />,
@@ -21,7 +21,6 @@ const router = createBrowserRouter([
         path: "/",
         element: <ProtectedRoutesWrapper />,
         children: [
-        
             {
                 path: "/property",
                 element: <Property />,

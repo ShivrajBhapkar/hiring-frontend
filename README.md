@@ -68,7 +68,7 @@ Rentify is a user-friendly real estate platform designed to make the rental proc
     - React
     - Vite.js
     - TailwindCss
-    - TankStack Router
+    - TankStack Query
     - Formik
 
 - **Backend:**
